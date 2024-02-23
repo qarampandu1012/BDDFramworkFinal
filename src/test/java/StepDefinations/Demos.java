@@ -29,9 +29,6 @@ public class Demos {
 
 	
 	
-	
-	
-	
 	@Given("User Click on {string} Button")
 	public void user_click_on_button(String label) throws IOException {
 
