@@ -19,5 +19,6 @@ import io.cucumber.junit.CucumberOptions;
 		tags="@Regresion"
 )
 public class JunitTestRunner {
+	
 
 }
