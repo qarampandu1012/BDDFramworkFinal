@@ -24,6 +24,9 @@ public class Demos {
 	private static final By CheckBBoxRadioButton = By.xpath("//label[text()='New York']");
 	private static final By Accordion = By.xpath("//a[text()='Accordion']");
 	private static final By AccordionPage = By.xpath("//h1[text()='Accordion']");
+	
+	///done
+	
 
 	AppUtills appUtills = new AppUtills();
 
