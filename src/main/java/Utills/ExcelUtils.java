@@ -17,6 +17,7 @@ import org.apache.poi.xssf.usermodel.XSSFWorkbook;
 public class ExcelUtils {
 
 	public static FileInputStream fi;
+	
 	public static FileOutputStream fo;
 
 	public static Workbook wb;
