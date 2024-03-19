@@ -44,7 +44,6 @@ public class Demos {
 			break;
 
 		}
-
 	}
 
 	@Then("User Should see {string}")
